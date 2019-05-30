@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-<<<<<<< Updated upstream
-	 viewBox="0 0 299.4 212" style="enable-background:new 0 0 299.4 212;" xml:space="preserve">
-=======
 	 viewBox="0 0 299.4 140.7" style="enable-background:new 0 0 299.4 140.7;" xml:space="preserve">
->>>>>>> Stashed changes
 <style type="text/css">
 	.st0{fill:#AF875F;}
 	.st1{fill:#A36F45;}
@@ -39,57 +35,6 @@
 	.st29{fill:#007A7A;}
 	.st30{fill:#FFFFFF;}
 	.st31{font-family:'OpenSans-Bold';}
-<<<<<<< Updated upstream
-	.st32{font-size:5.8974px;}
-</style>
-<g id="_x33_">
-	<g id="XMLID_222_">
-		<rect id="XMLID_192_" x="172.1" y="137.8" class="st0" width="44.8" height="44.8"/>
-		<rect id="XMLID_87_" x="172.1" y="172.1" class="st1" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_221_">
-		<rect id="XMLID_109_" x="127.3" y="137.8" class="st2" width="44.8" height="44.8"/>
-		<rect id="XMLID_144_" x="127.3" y="172.1" class="st3" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_220_">
-		<rect id="XMLID_115_" x="82.5" y="137.8" class="st4" width="44.8" height="44.8"/>
-		<rect id="XMLID_88_" x="82.5" y="172.1" class="st5" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_219_">
-		<path id="XMLID_53_" class="st6" d="M76,137.8C76,137.8,76,137.8,76,137.8l-31.8,0c-3.6,0-6.5,2.9-6.5,6.5v31.8
-			c0,3.6,2.9,6.5,6.5,6.5H76c3.6,0,6.5-2.9,6.5-6.5v-4.1v-27.7v-6.5H76z"/>
-		<path id="XMLID_42_" class="st7" d="M82.5,172.1H60.1H37.7v4.1c0,3.6,2.9,6.5,6.5,6.5h15.9v0h22.4L82.5,172.1L82.5,172.1z"/>
-	</g>
-	<g id="XMLID_223_">
-		<path id="XMLID_123_" class="st8" d="M255.3,137.8h-31.8c0,0,0,0,0,0h-6.5v6.5v31.8v6.5h17.6v0h20.8c3.6,0,6.5-2.9,6.5-6.5v-31.8
-			C261.8,140.8,258.9,137.8,255.3,137.8z"/>
-		<path id="XMLID_225_" class="st9" d="M237.1,172.1h-20.2h0v4.1c0,0,0,0,0,0v6.5h20.2v0h18.1c3.6,0,6.5-2.9,6.5-6.5v-4.1H237.1z"/>
-	</g>
-</g>
-<g id="_x32_">
-	<g id="XMLID_217_">
-		<rect id="XMLID_160_" x="172.1" y="83.6" class="st10" width="44.8" height="44.8"/>
-		<rect id="XMLID_154_" x="172.1" y="117.8" class="st11" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_216_">
-		<rect id="XMLID_147_" x="127.3" y="83.6" class="st12" width="44.8" height="44.8"/>
-		<rect id="XMLID_146_" x="127.3" y="117.8" class="st13" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_40_">
-		<rect id="XMLID_145_" x="82.5" y="83.6" class="st14" width="44.8" height="44.8"/>
-		<rect id="XMLID_134_" x="82.5" y="117.8" class="st15" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_38_">
-		<path id="XMLID_54_" class="st16" d="M48.6,83.6L48.6,83.6l-4.4,0c-3.6,0-6.5,2.9-6.5,6.5v31.8c0,3.6,2.9,6.5,6.5,6.5H76
-			c3.6,0,6.5-2.9,6.5-6.5v-4.1V90.1v-6.5H48.6z"/>
-		<path id="XMLID_41_" class="st17" d="M82.5,117.8H60.1v0H37.7v4.1c0,3.6,2.9,6.5,6.5,6.5H76c0,0,0,0,0,0h6.5V117.8z"/>
-	</g>
-	<g id="XMLID_218_">
-		<path id="XMLID_44_" class="st18" d="M255.3,83.6h-20.8h-11.1h-6.5v6.5c0,0,0,0,0,0v31.8c0,0,0,0,0,0v6.5h6.5h11.1h20.8
-			c3.6,0,6.5-2.9,6.5-6.5V90.1C261.8,86.5,258.8,83.6,255.3,83.6z"/>
-		<path id="XMLID_43_" class="st19" d="M237.1,117.8L237.1,117.8l-20.2,0v0h0v4.1c0,0,0,0,0,0v6.5h6.5c0,0,0,0,0,0h31.8
-			c3.6,0,6.5-2.9,6.5-6.5v-4.1H237.1z"/>
-=======
 	.st32{font-size:4.5728px;}
 </style>
 <g id="_x33_">
@@ -139,52 +84,10 @@
 			C236.6,55.2,234.3,53,231.6,53z"/>
 		<path id="XMLID_306_" class="st19" d="M217.5,79.5L217.5,79.5l-15.7,0v0h0v3.2c0,0,0,0,0,0v5.1h5.1c0,0,0,0,0,0h24.6
 			c2.8,0,5.1-2.3,5.1-5.1v-3.2H217.5z"/>
->>>>>>> Stashed changes
 	</g>
 </g>
 <g id="_x31__1_">
 	<g id="XMLID_36_">
-<<<<<<< Updated upstream
-		<rect id="XMLID_180_" x="172.1" y="29.3" class="st20" width="44.8" height="44.8"/>
-		<rect id="XMLID_179_" x="172.1" y="63.5" class="st21" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_17_">
-		<rect id="XMLID_174_" x="127.3" y="29.3" class="st22" width="44.8" height="44.8"/>
-		<rect id="XMLID_167_" x="127.3" y="63.5" class="st23" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_8_">
-		<rect id="XMLID_166_" x="82.5" y="29.3" class="st24" width="44.8" height="44.8"/>
-		<rect id="XMLID_164_" x="82.5" y="63.5" class="st25" width="44.8" height="10.6"/>
-	</g>
-	<g id="XMLID_2_">
-		<path id="XMLID_37_" class="st26" d="M48.6,29.3L48.6,29.3l-4.4,0c-3.6,0-6.5,2.9-6.5,6.5v31.8c0,3.6,2.9,6.5,6.5,6.5H76
-			c3.6,0,6.5-2.9,6.5-6.5v-4.1V35.8v-6.5H48.6z"/>
-		<path id="XMLID_39_" class="st27" d="M82.5,63.5H60.1v0H37.7v4.1c0,3.6,2.9,6.5,6.5,6.5H76c0,0,0,0,0,0h6.5V63.5z"/>
-	</g>
-	<g id="XMLID_1_">
-		<path id="XMLID_55_" class="st28" d="M255.3,29.3h-20.8h-11.1h-6.5v6.5c0,0,0,0,0,0v31.8c0,0,0,0,0,0v6.5h6.5h11.1h20.8
-			c3.6,0,6.5-2.9,6.5-6.5V35.8C261.8,32.3,258.9,29.3,255.3,29.3z"/>
-		<path id="XMLID_12_" class="st29" d="M237.1,63.5L237.1,63.5l-20.2,0v0h0v4.1c0,0,0,0,0,0v6.5h6.5c0,0,0,0,0,0h31.8
-			c3.6,0,6.5-2.9,6.5-6.5v-4.1H237.1z"/>
-	</g>
-</g>
-<g id="Text">
-	<text id="XMLID_11_" transform="matrix(1 0 0 1 221.666 179.2506)" class="st30 st31 st32">248</text>
-	<text id="XMLID_15_" transform="matrix(1 0 0 1 176.8457 179.2506)" class="st30 st31 st32">137</text>
-	<text id="XMLID_3_" transform="matrix(1 0 0 1 132.0254 179.2496)" class="st30 st31 st32">180</text>
-	<text id="XMLID_14_" transform="matrix(1 0 0 1 87.204 179.2506)" class="st30 st31 st32">167</text>
-	<text id="XMLID_13_" transform="matrix(1 0 0 1 42.3847 179.2506)" class="st30 st31 st32">210</text>
-	<text id="XMLID_5_" transform="matrix(1 0 0 1 221.666 124.9957)" class="st30 st31 st32">67</text>
-	<text id="XMLID_6_" transform="matrix(1 0 0 1 176.8457 124.9957)" class="st30 st31 st32">153</text>
-	<text id="XMLID_4_" transform="matrix(1 0 0 1 132.0254 124.9957)" class="st30 st31 st32">147</text>
-	<text id="XMLID_16_" transform="matrix(1 0 0 1 87.204 124.9957)" class="st30 st31 st32">218</text>
-	<text id="XMLID_7_" transform="matrix(1 0 0 1 42.3847 124.9947)" class="st30 st31 st32">248</text>
-	<text id="XMLID_95_" transform="matrix(1 0 0 1 222.4502 70.7398)" class="st30 st31 st32">30</text>
-	<text id="XMLID_108_" transform="matrix(1 0 0 1 176.8457 70.7398)" class="st30 st31 st32">115</text>
-	<text id="XMLID_106_" transform="matrix(1 0 0 1 132.0254 70.7398)" class="st30 st31 st32">193</text>
-	<text id="XMLID_96_" transform="matrix(1 0 0 1 87.204 70.7398)" class="st30 st31 st32">222</text>
-	<text id="XMLID_94_" transform="matrix(1 0 0 1 42.3847 70.7398)" class="st30 st31 st32">229</text>
-=======
 		<rect id="XMLID_180_" x="167.1" y="6.9" class="st20" width="34.8" height="34.8"/>
 		<rect id="XMLID_179_" x="167.1" y="33.4" class="st21" width="34.8" height="8.2"/>
 	</g>
@@ -224,6 +127,5 @@
 	<text id="XMLID_218_" transform="matrix(1 0 0 1 135.9991 38.9936)" class="st30 st31 st32">193</text>
 	<text id="XMLID_217_" transform="matrix(1 0 0 1 101.2462 38.9936)" class="st30 st31 st32">222</text>
 	<text id="XMLID_216_" transform="matrix(1 0 0 1 66.4932 38.9936)" class="st30 st31 st32">229</text>
->>>>>>> Stashed changes
 </g>
 </svg>
