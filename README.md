@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/joshjon/bliss-docs/develop/bliss-dircolors/images/icon.png" alt="icon" height="80">
+  <img src="https://raw.githubusercontent.com/joshjon/bliss-docs/master/icon.png" alt="icon" height="80">
   <h3 align="center">Bliss Docs</h3>
   <p align="center">
     Assets for the Bliss Theme<br>
