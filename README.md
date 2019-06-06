@@ -1,16 +1,16 @@
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/joshjon/bliss-docs/master/icon.png" alt="icon" height="80">
+  <img src="https://raw.githubusercontent.com/joshjon/bliss-docs/master/bliss-icon.svg?sanitize=true" alt="icon" height="145">
   <h3 align="center">Bliss Docs</h3>
   <p align="center">
-    Assets for the Bliss Theme<br>
     A delicate theme that injects color without overwhelming your workspace.<br>
   </p>
 </p>
 
 ### About
-* [Bliss iTerm](https://github.com/joshjon/bliss-iterm)
+Assets for the Bliss Themes below<br>
 * [Bliss dircolors](https://github.com/joshjon/bliss-dircolors)
+* [Bliss iTerm](https://github.com/joshjon/bliss-iterm)
 * [Bliss Oh My Zsh](https://github.com/joshjon/bliss-zsh)
 
 ### Author
